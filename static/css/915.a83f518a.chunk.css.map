@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/915.a83f518a.chunk.css","mappings":"AAAA,oBAGI,uBAAwB,CADxB,WAAY,CADZ,UAGJ","sources":["Layout/Content/Music/music.module.css"],"sourcesContent":[".music {\r\n    width: 100%;\r\n    height: 100%;\r\n    background-color: purple;\r\n}"],"names":[],"sourceRoot":""}
