@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/751.a459d554.chunk.css","mappings":"AAAA,kBAGE,iBAAkB,CADlB,WAAY,CADZ,UAGF","sources":["Layout/Content/News/news.module.css"],"sourcesContent":[".news {\n  width: 100%;\n  height: 100%;\n  background: silver;\n}\n"],"names":[],"sourceRoot":""}
